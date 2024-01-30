@@ -16,4 +16,20 @@ des.push('puran dhaka');
 des.push('RAJSHAHI','shajek');
 //console.log(des);
 des.pop('');
-console.log(des);
+//console.log(des);
+
+
+
+//third task
+const book=['harry potter','gurdians', 'social science']
+//console.log(book)
+//console.log(book.includes('javascript'))
+
+
+//fourth task
+const data1 = ['apple', 'mango', 'mango'];
+const data2 = ['LV', 'MK', 'HNM'];
+
+const concatenatedArray = data1.concat(data2);
+
+console.log(concatenatedArray);
